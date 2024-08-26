@@ -1,6 +1,3 @@
-Here's a detailed profile README you can use for your GitHub page:
-
-
 👋 Hello, I'm Saurabh Yadav
 
 🔍 About Me
