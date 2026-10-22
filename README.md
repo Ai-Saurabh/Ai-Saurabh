@@ -138,6 +138,8 @@ CPI: 8.65
 - **LinkedIn:** [Saurabh Yadav](https://www.linkedin.com/in/saurabh-yadav-4a0178434)
 - **GitHub:** [@Ai-Saurabh](https://github.com/Ai-Saurabh)
 - **Email:** saurabh2025@gmail.com
+- **Email:** rnvrsinghyadav@gmail.com
+  
 
 ---
 
