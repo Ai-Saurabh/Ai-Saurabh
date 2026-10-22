@@ -1,130 +1,170 @@
+<div align="center">
+
 # 👋 Hi, I'm Saurabh Yadav
 
-### 🚀 AI/ML Engineer | AI Benchmarking & Evaluation Specialist | Data Annotation Expert | Full-Stack Developer
+### AI/ML Engineer | LLM Evaluation Specialist
+### Data Annotation Expert | Full-Stack Developer
 
-I work across Artificial Intelligence, Machine Learning, LLM Evaluation, AI-Agent Benchmarking, Data Annotation, and Full-Stack Development.
+**Building AI-Powered Solutions & Reliable Software**
 
-My focus is on building reliable AI-powered tools, evaluating model performance, improving training data quality, and developing scalable software solutions.
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+</p>
+
+<p>
+  <a href="https://github.com/Ai-Saurabh">GitHub Profile</a> •
+  <a href="https://www.linkedin.com/in/saurabh-yadav-4a0178434">LinkedIn</a>
+</p>
+
+</div>
 
 ---
 
-## 🎯 About Me
+## 👨‍💻 About Me
 
-- 🤖 AI/ML Engineering: Machine learning workflows, model evaluation, and performance analysis.
-- 🧠 LLM Evaluation: Response quality assessment, instruction following, rubric design, and failure analysis.
-- 🏷️ Data Annotation: Data labeling, classification, annotation guidelines, and quality assurance.
-- 🔬 AI Benchmarking: Evaluation criteria, reference answers, and structured benchmark tasks.
-- 💻 Full-Stack Development: Building web applications, APIs, and interactive user interfaces.
-- 📊 Data Analytics: Data cleaning, exploratory analysis, reporting, and visualization.
-- 🔧 Software Quality: Repository analysis, automated testing, code quality, and security checks.
+I'm focused on Artificial Intelligence, Machine Learning, LLM evaluation, AI benchmarking, data annotation, and full-stack software development.
+
+- 🤖 AI/ML Engineering and model evaluation
+- 🧠 LLM evaluation and AI-agent benchmarking
+- 🏷️ Data annotation and quality assurance
+- 🔎 Generative AI, RAG, and prompt engineering
+- 💻 Full-stack web development
+- 📊 Data analysis and visualization
+- 🔐 Software quality and repository security analysis
 
 ---
 
 ## 🛠️ Technical Skills
 
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,php,bash" alt="Programming Languages">
+</p>
+
+### 🌐 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,angular,tailwind,vite" alt="Frontend Technologies">
+</p>
+
+- React.js
+- Next.js
+- Angular
+- JavaScript (ES6+)
+- TypeScript
+- HTML5 and CSS3
+- Responsive Web Design
+- REST API Integration
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,flask" alt="Backend Technologies">
+</p>
+
+- Node.js
+- Express.js
+- NestJS
+- FastAPI
+- RESTful APIs
+- GraphQL
+- Authentication and Authorization
+
 ### 🤖 AI & Machine Learning
 
-- Python
-- PyTorch
-- TensorFlow
-- JAX
-- Scikit-learn
-- XGBoost
-- LightGBM
-- Hugging Face Transformers
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" alt="Machine Learning">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/JAX-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LightGBM-2E8B57?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+</p>
+
 - Machine Learning
 - Deep Learning
 - Model Training and Evaluation
 - Feature Engineering
+- Model Performance Analysis
+- Data Preprocessing
 
-### 🧠 LLM, Generative AI & AI Agents
+### 🧠 Generative AI & LLMs
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge">
+  <img src="https://img.shields.io/badge/RAG-6C47FF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LLM%20Evaluation-007ACC?style=for-the-badge">
+</p>
 
 - LLM Evaluation
 - AI-Agent Benchmarking
-- Generative AI Applications
 - Prompt Engineering
 - Retrieval-Augmented Generation (RAG)
 - LangChain
-- Evaluation Datasets
-- Reference Answer Development
+- Evaluation Dataset Development
 - Rubric Design
 - Failure Analysis
 - Model Output Validation
-- Prompt Regression Testing
 
 ### 🏷️ Data Annotation & AI Training
 
 - Data Annotation and Labeling
 - Text Classification
 - Data Categorization
-- AI Training Data Preparation
-- Annotation Guideline Development
+- Training Data Preparation
+- Annotation Guidelines
 - Data Quality Assurance
 - Instruction Following Evaluation
 - Factual Accuracy Assessment
 - Response Quality Review
-- Error Categorization
-- Human Feedback and Model Evaluation
 
-### 💻 Programming Languages
+### 🗄️ Databases
 
-- Python
-- JavaScript (ES6+)
-- TypeScript
-- SQL
-- HTML5
-- CSS3
-- Bash / Shell Scripting
-
-### 🌐 Frontend Development
-
-- React.js
-- Next.js
-- Angular
-- Responsive Web Design
-- Component-Based Architecture
-- State Management
-- REST API Integration
-- Modern JavaScript and TypeScript
-
-### ⚙️ Backend Development
-
-- Node.js
-- Express.js
-- NestJS
-- FastAPI
-- RESTful API Development
-- GraphQL
-- Authentication and Authorization
-- API Integration
-- Database Connectivity
-- Backend Testing and Debugging
-
-### 🗄️ Databases & Data Management
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis" alt="Databases">
+</p>
 
 - PostgreSQL
 - MySQL
 - MongoDB
 - SQLite
+- Redis
 - Vector Databases
 - SQL Querying
-- Database Design
-- Data Cleaning and Transformation
 
-### 📊 Data Analysis & Visualization
+### 📊 Data Analysis
+
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas" alt="Data Analysis">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+</p>
 
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
-- Tableau
-- Power BI
-- Microsoft Excel
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis
-- Data Visualization and Reporting
+- Exploratory Data Analysis
+- Data Visualization
+- Reporting and Analytics
 
-### ☁️ Cloud, DevOps & Tools
+### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,docker,kubernetes,aws,azure,terraform,vscode" alt="DevOps Tools">
+</p>
 
 - Git and GitHub
 - GitHub Actions
@@ -132,23 +172,13 @@ My focus is on building reliable AI-powered tools, evaluating model performance,
 - Docker
 - Kubernetes
 - AWS
-- CI/CD Pipelines
+- Azure
+- Terraform
+- CI/CD
 - Automated Testing
 - Pytest
 - Ruff
 - MLflow
-- Dependency Management
-
-### 🔐 Code Quality & Security
-
-- Static Code Analysis
-- Code Quality and Linting
-- Dependency Vulnerability Assessment
-- Secure Development Practices
-- Test Automation
-- Error Handling and Debugging
-- Repository Trust Analysis
-- Technical Documentation
 
 ---
 
@@ -156,19 +186,17 @@ My focus is on building reliable AI-powered tools, evaluating model performance,
 
 ### 1. 🛡️ Repo Trust Score CLI
 
-🔗 [View Repository](https://github.com/Ai-Saurabh/repo-trust-score)
+**[View Repository →](https://github.com/Ai-Saurabh/repo-trust-score)**
 
-A Python command-line tool that evaluates GitHub repositories on a 0–100 trust scale before cloning and running them.
+A Python CLI tool that evaluates GitHub repositories on a 0–100 trust scale before cloning and running them.
 
-**Key Features**
-
-- Dependency and vulnerability checks using OSV.dev.
-- Detection of potentially dangerous installation patterns.
-- Documentation and repository security-signal analysis.
-- Trust scoring with findings and penalties.
-- CLI reporting and JSON output.
-- Automated CI testing with GitHub Actions.
-- Testing across Python 3.10, 3.11, and 3.12.
+**Features**
+- Dependency and vulnerability checks using OSV.dev
+- Dangerous installation pattern detection
+- Documentation and security-signal analysis
+- Trust scoring and findings
+- CLI reports and JSON output
+- Automated testing with GitHub Actions
 
 **Tech Stack:** Python, Pytest, Ruff, GitHub Actions, OSV.dev
 
@@ -176,45 +204,34 @@ A Python command-line tool that evaluates GitHub repositories on a 0–100 trust
 
 ### 2. 🧪 Prompt Regression
 
-A framework for evaluating LLM prompt changes, comparing model outputs, and identifying potential regressions.
+A framework for evaluating LLM prompt changes and identifying potential output regressions.
 
-**Focus Areas**
-
-- Prompt Evaluation
-- Output Comparison
-- Regression Detection
-- Automated Quality Checks
+**Focus:** Prompt evaluation, output comparison, regression detection, and automated quality checks.
 
 ### 3. 🧩 RepoEval
 
 A lightweight framework for evaluating coding agents and candidate solutions.
 
-**Focus Areas**
-
-- Coding-Agent Evaluation
-- Candidate Solution Assessment
-- Structured Evaluation Workflows
+**Focus:** Coding-agent evaluation, candidate assessment, and structured evaluation workflows.
 
 ### 4. 🔎 Enterprise RAG Search Engine
 
-A retrieval-augmented generation project designed to retrieve relevant information from knowledge sources and support context-grounded AI responses.
+A retrieval-augmented generation project designed to retrieve relevant information and support context-grounded AI responses.
 
 **Tech Stack:** Python, LangChain, FastAPI, Vector Databases
 
 ---
 
-## 💼 Professional Focus
+## 💼 Professional Interests
 
 - AI/ML Engineering
-- AI Benchmarking and Research
 - LLM Training and Evaluation
+- AI Benchmarking and Research
 - Data Annotation and Quality Assurance
-- AI-Agent Task Evaluation
 - Generative AI and RAG Applications
 - Full-Stack Software Development
 - Data Analysis and Reporting
 - Software Testing and Automation
-- Technical Documentation
 
 ---
 
@@ -232,8 +249,8 @@ CPI: 8.65
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** [Saurabh Yadav](https://www.linkedin.com/in/saurabh-yadav-4a0178434)
 - **GitHub:** [@Ai-Saurabh](https://github.com/Ai-Saurabh)
+- **LinkedIn:** [Saurabh Yadav](https://www.linkedin.com/in/saurabh-yadav-4a0178434)
 - **Email:** saurabh2025@gmail.com
 - **Email:** rnvrsinghyadav@gmail.com
 
@@ -241,8 +258,8 @@ CPI: 8.65
 
 <div align="center">
 
-### 💡 Building, Evaluating & Improving Reliable AI Systems
+### 🚀 Building, Evaluating & Improving Reliable AI Systems
 
-**AI • Machine Learning • LLM Evaluation • Data Quality • Software Engineering**
+**Artificial Intelligence • Machine Learning • LLM Evaluation • Software Engineering**
 
 </div>
