@@ -1,31 +1,30 @@
-Hi, I'm Saurabh Yadav 👋
+# 👋 Hi, I'm Saurabh Yadav
 
-AI/ML Engineer | AI Benchmarking & Evaluation Specialist | Data Annotation Expert | Full-Stack Developer
+### 🚀 AI/ML Engineer | AI Benchmarking & Evaluation Specialist | Data Annotation Expert | Full-Stack Developer
 
-I work across Artificial Intelligence, Machine Learning, LLM evaluation, AI-agent benchmarking, data annotation, and full-stack software development.
+I work across Artificial Intelligence, Machine Learning, LLM Evaluation, AI-Agent Benchmarking, Data Annotation, and Full-Stack Development.
 
-My focus is on building reliable AI-powered tools, evaluating model performance, improving training data quality, identifying failure modes, and developing scalable software solutions.
+My focus is on building reliable AI-powered tools, evaluating model performance, improving training data quality, and developing scalable software solutions.
 
 ---
 
-🎯 About Me
+## 🎯 About Me
 
 - 🤖 AI/ML Engineering: Machine learning workflows, model evaluation, and performance analysis.
 - 🧠 LLM Evaluation: Response quality assessment, instruction following, rubric design, and failure analysis.
 - 🏷️ Data Annotation: Data labeling, classification, annotation guidelines, and quality assurance.
-- 🔬 AI Benchmarking: Benchmark task creation, reference answers, evaluation criteria, and evidence-based research.
+- 🔬 AI Benchmarking: Evaluation criteria, reference answers, and structured benchmark tasks.
 - 💻 Full-Stack Development: Building web applications, APIs, and interactive user interfaces.
 - 📊 Data Analytics: Data cleaning, exploratory analysis, reporting, and visualization.
 - 🔧 Software Quality: Repository analysis, automated testing, code quality, and security checks.
-- 🚀 Continuous Learning: Exploring Generative AI, RAG systems, AI agents, and modern development tools.
 
 ---
 
-🛠️ Technical Skills
+## 🛠️ Technical Skills
 
-🤖 AI & Machine Learning
+### 🤖 AI & Machine Learning
 
-- Machine Learning and Deep Learning
+- Python
 - PyTorch
 - TensorFlow
 - JAX
@@ -33,11 +32,12 @@ My focus is on building reliable AI-powered tools, evaluating model performance,
 - XGBoost
 - LightGBM
 - Hugging Face Transformers
+- Machine Learning
+- Deep Learning
 - Model Training and Evaluation
 - Feature Engineering
-- Model Performance Analysis
 
-🧠 LLM, Generative AI & AI Agents
+### 🧠 LLM, Generative AI & AI Agents
 
 - LLM Evaluation
 - AI-Agent Benchmarking
@@ -52,7 +52,7 @@ My focus is on building reliable AI-powered tools, evaluating model performance,
 - Model Output Validation
 - Prompt Regression Testing
 
-🏷️ Data Annotation & AI Training
+### 🏷️ Data Annotation & AI Training
 
 - Data Annotation and Labeling
 - Text Classification
@@ -66,7 +66,7 @@ My focus is on building reliable AI-powered tools, evaluating model performance,
 - Error Categorization
 - Human Feedback and Model Evaluation
 
-💻 Programming Languages
+### 💻 Programming Languages
 
 - Python
 - JavaScript (ES6+)
@@ -76,19 +76,18 @@ My focus is on building reliable AI-powered tools, evaluating model performance,
 - CSS3
 - Bash / Shell Scripting
 
-🌐 Frontend Development
+### 🌐 Frontend Development
 
 - React.js
 - Next.js
 - Angular
-- HTML5 and CSS3
 - Responsive Web Design
 - Component-Based Architecture
 - State Management
 - REST API Integration
 - Modern JavaScript and TypeScript
 
-⚙️ Backend Development
+### ⚙️ Backend Development
 
 - Node.js
 - Express.js
@@ -101,7 +100,7 @@ My focus is on building reliable AI-powered tools, evaluating model performance,
 - Database Connectivity
 - Backend Testing and Debugging
 
-🗄️ Databases & Data Management
+### 🗄️ Databases & Data Management
 
 - PostgreSQL
 - MySQL
@@ -112,7 +111,7 @@ My focus is on building reliable AI-powered tools, evaluating model performance,
 - Database Design
 - Data Cleaning and Transformation
 
-📊 Data Analysis & Visualization
+### 📊 Data Analysis & Visualization
 
 - Pandas
 - NumPy
@@ -125,7 +124,7 @@ My focus is on building reliable AI-powered tools, evaluating model performance,
 - Statistical Analysis
 - Data Visualization and Reporting
 
-☁️ Cloud, DevOps & Tools
+### ☁️ Cloud, DevOps & Tools
 
 - Git and GitHub
 - GitHub Actions
@@ -138,9 +137,9 @@ My focus is on building reliable AI-powered tools, evaluating model performance,
 - Pytest
 - Ruff
 - MLflow
-- Environment and Dependency Management
+- Dependency Management
 
-🔐 Code Quality & Security
+### 🔐 Code Quality & Security
 
 - Static Code Analysis
 - Code Quality and Linting
@@ -153,58 +152,58 @@ My focus is on building reliable AI-powered tools, evaluating model performance,
 
 ---
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-1. Repo Trust Score CLI
+### 1. 🛡️ Repo Trust Score CLI
 
-🔗 "View Repository" (https://github.com/Ai-Saurabh/repo-trust-score)
+🔗 [View Repository](https://github.com/Ai-Saurabh/repo-trust-score)
 
 A Python command-line tool that evaluates GitHub repositories on a 0–100 trust scale before cloning and running them.
 
-Key Features
+**Key Features**
 
 - Dependency and vulnerability checks using OSV.dev.
 - Detection of potentially dangerous installation patterns.
 - Documentation and repository security-signal analysis.
 - Trust scoring with findings and penalties.
-- CLI reports and JSON output.
+- CLI reporting and JSON output.
 - Automated CI testing with GitHub Actions.
 - Testing across Python 3.10, 3.11, and 3.12.
 
-Tech Stack: Python, Pytest, Ruff, GitHub Actions, OSV.dev
+**Tech Stack:** Python, Pytest, Ruff, GitHub Actions, OSV.dev
 
-"CI Status" (https://github.com/Ai-Saurabh/repo-trust-score/actions/workflows/ci.yml/badge.svg)
+![CI Status](https://github.com/Ai-Saurabh/repo-trust-score/actions/workflows/ci.yml/badge.svg)
 
-2. Prompt Regression
+### 2. 🧪 Prompt Regression
 
-A framework concept for evaluating LLM prompt changes, comparing model outputs, and identifying potential regressions.
+A framework for evaluating LLM prompt changes, comparing model outputs, and identifying potential regressions.
 
-Focus Areas
+**Focus Areas**
 
-- Prompt evaluation
-- Output comparison
-- Regression detection
-- Automated quality checks
+- Prompt Evaluation
+- Output Comparison
+- Regression Detection
+- Automated Quality Checks
 
-3. RepoEval
+### 3. 🧩 RepoEval
 
 A lightweight framework for evaluating coding agents and candidate solutions.
 
-Focus Areas
+**Focus Areas**
 
-- Coding-agent evaluation
-- Candidate solution assessment
-- Structured evaluation workflows
+- Coding-Agent Evaluation
+- Candidate Solution Assessment
+- Structured Evaluation Workflows
 
-4. Enterprise RAG Search Engine
+### 4. 🔎 Enterprise RAG Search Engine
 
-A retrieval-augmented generation project focused on retrieving relevant information from knowledge sources and supporting context-grounded AI responses.
+A retrieval-augmented generation project designed to retrieve relevant information from knowledge sources and support context-grounded AI responses.
 
-Tech Stack: Python, LangChain, FastAPI, Vector Databases
+**Tech Stack:** Python, LangChain, FastAPI, Vector Databases
 
 ---
 
-💼 Professional Focus
+## 💼 Professional Focus
 
 - AI/ML Engineering
 - AI Benchmarking and Research
@@ -219,23 +218,31 @@ Tech Stack: Python, LangChain, FastAPI, Vector Databases
 
 ---
 
-🎓 Education
+## 🎓 Education
 
-Integrated Dual Degree (B.Tech + M.Tech) in Computer Science
+**Integrated Dual Degree (B.Tech + M.Tech) in Computer Science**
 
 Indian Institute of Technology (BHU), Varanasi
+
 August 2018 – May 2023
+
 CPI: 8.65
 
 ---
 
-📫 Connect With Me
+## 📫 Connect With Me
 
-- LinkedIn: "Saurabh Yadav" (https://www.linkedin.com/in/saurabh-yadav-4a0178434)
-- GitHub: "@Ai-Saurabh" (https://github.com/Ai-Saurabh)
-- Email: saurabh2025@gmail.com
-- Email: rnvrsinghyadav@gmail.com
+- **LinkedIn:** [Saurabh Yadav](https://www.linkedin.com/in/saurabh-yadav-4a0178434)
+- **GitHub:** [@Ai-Saurabh](https://github.com/Ai-Saurabh)
+- **Email:** saurabh2025@gmail.com
+- **Email:** rnvrsinghyadav@gmail.com
 
 ---
 
-Building, evaluating, and improving reliable AI systems.
+<div align="center">
+
+### 💡 Building, Evaluating & Improving Reliable AI Systems
+
+**AI • Machine Learning • LLM Evaluation • Data Quality • Software Engineering**
+
+</div>
