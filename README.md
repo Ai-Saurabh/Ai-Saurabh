@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Saurabh Yadav
+# 👋 Hi, I'm Gaurabh Yadav
 
 ### AI/ML Engineer | LLM Evaluation Specialist
 ### Data Annotation Expert | Full-Stack Developer
